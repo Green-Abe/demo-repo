@@ -1,5 +1,5 @@
 ## **DEMO Title**
-***Some basic Git commands are:***
+# ***Some basic Git commands are:***
 ```
 git status
 git add
