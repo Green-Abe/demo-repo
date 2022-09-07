@@ -1,7 +1,7 @@
 ## **DEMO Title**
 ***Some basic Git commands are:***
 ```
-git status
-git add
-git commit
+#ffffff git status
+#ffffff git add
+#ffffff git commit
 ```
